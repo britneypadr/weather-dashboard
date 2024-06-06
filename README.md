@@ -22,4 +22,4 @@ The Weather Dashboard is a web application that allows users to search for weath
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
